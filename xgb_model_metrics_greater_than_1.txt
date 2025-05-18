@@ -1,0 +1,12 @@
+Class Balance:
+[0.78056551 0.21943449]
+Best Hyperparameters:
+{'max_depth': 2, 'n_estimators': 100}
+AUROC: 0.7044053662073967
+Accuracy: 0.4746268656716418
+Precision: 0.2756132756132756
+Recall: 0.880184331797235
+F1 Score: 0.4197802197802198
+Confusion Matrix:
+[[286 502]
+ [ 26 191]]
