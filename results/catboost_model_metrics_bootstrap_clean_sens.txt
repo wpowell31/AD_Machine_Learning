@@ -1,0 +1,14 @@
+Hyperparameter Tuning Boostrap Resampling Metrics:
+Accuracy: Mean = 1.0000, 95% CI = [1.0000, 1.0000]
+Precision: Mean = 1.0000, 95% CI = [1.0000, 1.0000]
+Recall: Mean = 1.0000, 95% CI = [1.0000, 1.0000]
+F1: Mean = 1.0000, 95% CI = [1.0000, 1.0000]
+Roc_auc: Mean = 1.0000, 95% CI = [1.0000, 1.0000]
+AUROC: Mean = 1.0000, 95% CI = [1.0000, 1.0000]
+Hyperparameter Tuning Boostrap Resampling Metrics:
+Accuracy: Mean = 0.9788, 95% CI = [0.9714, 0.9855]
+Precision: Mean = 0.9313, 95% CI = [0.8037, 1.0000]
+Recall: Mean = 0.5305, 95% CI = [0.3882, 0.6832]
+F1: Mean = 0.6728, 95% CI = [0.5466, 0.7964]
+Roc_auc: Mean = 0.9325, 95% CI = [0.8864, 0.9638]
+AUROC: Mean = 0.9325, 95% CI = [0.8864, 0.9638]
